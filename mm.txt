@@ -3,3 +3,4 @@ git is a girl
 git lala id gou
 git is so many
 git is so difficult
+creating a new branch is quick
